@@ -1,6 +1,6 @@
 # 📊 Nexora Sales Performance Dashboard
 
-![Dashboard Cover](dashboard-cover.png)
+![Dashboard Cover](dashboard-cover.png.png)
 
 ## 📌 Project Overview
 
